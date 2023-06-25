@@ -1,0 +1,1 @@
+I have developed a relational database for a network of tattoo parlors, there is normalization in the database, as well as functional limitations for staff at several levels: administrator, analyst, manager, operator and ordinary employee.
